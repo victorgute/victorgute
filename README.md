@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Victor Hugo Gutierrez Carvalho</h1>
+<h1 align="center">Olá, eu sou o Victor Hugo Gutierrez Carvalho</h1>
 
 <p align="center">
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – PUCRS (EAD)<br>
