@@ -33,16 +33,16 @@
 
 ### 📌 Projetos em destaque
 
-- 🎯 [Análise de Temperaturas em Python](https://github.com/victorgute/Aulas-de-Python_Faculdade)
-- 🛍️ [Protótipo de E-commerce Esportivo (Figma)](https://www.figma.com/file/LYUQXL5b3yeYIOn7QqsmZo/Prot%C3%B3tipos---E-commerce-Esportivo-PUCRS)
+- 🎯 [Projeto-fase-2-LP]((https://github.com/victorgute/Projeto-fase-2-LP))
+- 🛍️ [Portfolio]((https://github.com/victorgute/Portfolio))
 
 ---
 
 ### 📬 Contato
 
 <p>
-  <a href="mailto:victorgute@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victor.h.gutierrez.carvalho@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/victor-gutierrez-999440278/></a>
 </p>
 
 ---
