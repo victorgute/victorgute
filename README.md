@@ -33,8 +33,8 @@
 
 ### 📌 Projetos em destaque
 
-- 🎯 [Projeto-fase-2-LP]((https://github.com/victorgute/Projeto-fase-2-LP))
-- 🛍️ [Portfolio]((https://github.com/victorgute/Portfolio))
+- 🎯 [Projeto-fase-2-LP](https://github.com/victorgute/Projeto-fase-2-LP)
+- 🛍️ [Portfolio](https://github.com/victorgute/Portfolio)
 
 ---
 
