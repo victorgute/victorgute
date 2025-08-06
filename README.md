@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Victor Hugo Gutierrez Carvalho</h1>
 
 <p align="center">
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – PUCRS (EAD)<br>
+🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – PUCRS<br>
 🚀 Em formação pelo programa <strong>Start&lt;Tech&gt; TOTVS + FIAP + Alura</strong><br>
 💻 Foco atual: Python, Cloud, Engenharia de Software e Desenvolvimento Web
 </p>
